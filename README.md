@@ -58,6 +58,10 @@ print "Sunday: " + getWeatherCondition("Sunday")
 POWER POINT PRESENTATION
 ![Screenshot (12)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/a873584b-d417-4047-b1e5-2100bc8ca829)
 ![Screenshot (19)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/46b6106f-673a-4164-94f4-b4dcee8a0152)
+![Screenshot (15)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/110318d4-db46-44da-b1ce-e395b62ec4fe)
+![Screenshot (11)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/64d2561b-5df0-442e-8e6b-9d0e991685a3)
+![Screenshot (18)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/d24d1446-4148-4483-9a22-1a86d5d109ca)
+![Screenshot (13)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/adfdfab0-c7bc-40d6-988c-ac17b1d2fa14)
 
 
 
