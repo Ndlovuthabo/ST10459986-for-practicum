@@ -54,3 +54,10 @@ print "Monday: " + getWeatherCondition("Monday")
 print "Tuesday: " + getWeatherCondition("Tuesday")
 print "Saturday: " + getWeatherCondition("Saturday")
 print "Sunday: " + getWeatherCondition("Sunday")
+
+POWER POINT PRESENTATION
+![Screenshot (12)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/a873584b-d417-4047-b1e5-2100bc8ca829)
+![Screenshot (19)](https://github.com/Ndlovuthabo/ST10459986-for-practicum/assets/164686352/46b6106f-673a-4164-94f4-b4dcee8a0152)
+
+
+
